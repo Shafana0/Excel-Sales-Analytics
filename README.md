@@ -7,7 +7,7 @@
 
     **1.** Develop a detailed [Customer Performance Report](https://github.com/Shafana0/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf)_to analyze customer metrics and performance trends. 
 
-    **2.** Conduct an in-depth comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct an in-depth comprehensive comparison between _[market performance and sales targets](https://github.com/Shafana0/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf)_
 
 -  **Purpose of Sales Analytics:** 
 
