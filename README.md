@@ -34,7 +34,7 @@
 
     **1.** Create comprehensive Profit and Loss (P&L) reports segmented by [Fiscal Year](https://github.com/Shafana0/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [Monthly](https://github.com/Shafana0/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Month.pdf)
 
-   **2.** Develop P&L reports categorized by [Market Segments](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Develop P&L reports categorized by [Market Segments](https://github.com/Shafana0/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20for%20Market.pdf)_
 
 - **Purpose of Financial Analytics:**
 
