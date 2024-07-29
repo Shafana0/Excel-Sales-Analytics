@@ -66,3 +66,5 @@
 - [x] Optimizing report generation through meticulous refinement.
 - [x] Strategic planning in report development.
 
+For any questions or feedback, please reach out to [Linkedin](https://www.linkedin.com/in/shafana-09579328b/)
+
